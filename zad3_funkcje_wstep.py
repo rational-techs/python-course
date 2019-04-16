@@ -1,6 +1,7 @@
 # Od razu z zadaniami :)
 # w książce od strony 37 do 40 znajduje się rozdział o funkcjach
 # przykłady dotyczą funkcji dodawania odejmowania mnożenia i dzielenia
+# (składnie if możecie pominąć ale jak zachęcam również do eksperymentowania :) )
 
 # a więc bazując stronach z ksiązki 
 # ponownie napiszcie kalkulator dla 10 dowolnych działań
