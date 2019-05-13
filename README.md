@@ -28,4 +28,9 @@ Da to każdemu możliwość dalszego rozwoju, czy to nauki nowego języka, bąd�
 * https://microbit-micropython.readthedocs.io/en/latest/tutorials/hello.html - dokumentacja microbit po angielsku
 * https://microbit-micropython.readthedocs.io/pl/latest/tutorials/hello.html - dokumentacja microbit po polsku
 * https://tutorial.djangogirls.org/pl/ - kurs django girls
+* https://www.flynerd.pl/tag/python-kurs - blog programistki python / ruby
 * https://python101.readthedocs.io/pl/latest/podstawy/index.html - podstawy python
+
+* https://docs.python.org/3.7/library/functions.html - wbudowane funkcje python3 (ang)
+* https://translate.google.com/translate?sl=auto&tl=pl&u=https%3A%2F%2Fdocs.python.org%2F3.7%2Flibrary%2Ffunctions.html - wbudowane funkcje python3 (pl)
+
